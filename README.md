@@ -1,5 +1,6 @@
 # Sprunki Phase 5 Original
 ![image](https://github.com/user-attachments/assets/eba2a781-89a4-4b45-8501-a473d49b8c23)
+
 Sprunki Phase 5 Original is an innovative interactive music game that combines elements of music creation with visual storytelling. In this phase, players will enter a vibrant world where they can mix and match various characters and sounds to create unique musical pieces. The game encourages creativity and experimentation, making it suitable for casual players and music enthusiasts alike.
 
 # Play Now
