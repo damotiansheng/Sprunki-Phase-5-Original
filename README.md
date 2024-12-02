@@ -7,13 +7,17 @@ Sprunki Phase 5 Original - Play Sprunki Phase 5 Original Games
 Sprunki Phase 5 Original is an innovative interactive music game that combines elements of music creation with visual storytelling. In this phase, players will enter a vibrant world where they can mix and match various characters and sounds to create unique musical pieces. The game encourages creativity and experimentation, making it suitable for casual players and music enthusiasts alike.
 # Play Now
 You can play Sprunki Phase 5 Original online by visiting the following link:
-https://sprunkiincredibox.cc/sprunki-phase-5-original
+[Sprunki Phase 5 Original](https://sprunkiincredibox.cc/sprunki-phase-5-original)
 
 # Features
 Multi-layer Soundboard	Access to a multi-layer soundboard for creating more complex musical compositions.
+
 Dynamic Environment	The game world changes dynamically based on the player's music, enhancing immersion.
+
 Rich Storyline	Explore the origins of the universe through music, experiencing multiple endings.
+
 Community Interaction	Collaborate in real-time with players worldwide to create music together.
+
 Free Online Access	Play instantly through your browser without any downloads required.
 # Getting Started
 Play Online
